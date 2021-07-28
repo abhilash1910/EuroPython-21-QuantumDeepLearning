@@ -1,6 +1,6 @@
 ## Introduction to Quantum Deep Learning
 
-This repository contains the details for the [EuroPython Talk](https://ep2021.europython.eu/talks/7QW9AdF-introduction-to-quantum-deep-learning/). This includes resources, and implementations of the useage of Quantum Variational Circuits and Hybrid Classical-Quantum Circuits for deep learning based applications. The platform used for the notebooks are [Tensorflow](https://www.tensorflow.org/) and [Pennylane](https://pennylane.ai/).  Following are the different parts of the repository:
+This repository contains the details for the [EuroPython Talk](https://ep2021.europython.eu/talks/7QW9AdF-introduction-to-quantum-deep-learning/). This includes resources, and implementations of the useage of Quantum Variational Circuits and Hybrid Classical-Quantum Circuits for deep learning based applications. The platform used for the notebooks are [Tensorflow](https://www.tensorflow.org/) and [Pennylane](https://pennylane.ai/). [Video](https://youtu.be/V92trw5bK34)  Following are the different parts of the repository:
 
 ### Quantum Gates
 
