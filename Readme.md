@@ -62,3 +62,19 @@ The Discriminator Circuit appears as follows:
 
 ![image](https://user-images.githubusercontent.com/30946547/127306664-24b0932f-dc42-4c7e-b4bc-f8bf99519892.png)
 
+
+### Quantum GRNN
+
+This notebook has been taken from [Pennylane](https://pennylane.ai/qml/demos/tutorial_qgrnn.html) and it provides an outline how to use QGRNN for Ising model.
+
+
+![image](https://user-images.githubusercontent.com/30946547/127309425-a0b26031-3c57-49d1-946f-8a7eaa5e8685.png)
+
+
+## Resources:
+
+The resources for Quantum Variational Circuits for different platforms such as Tensorflow Quantum and Qiskit are provided below:
+
+- [Cirq](https://quantumai.google/cirq/tutorials/variational_algorithm)
+- [Qiskit](https://qiskit.org/documentation/machine-learning/tutorials/01_neural_networks.html)
+- [Pennylane](https://pennylane.ai/qml/demos_research.html)
