@@ -5,6 +5,7 @@ This repository contains the details for the [EuroPython Talk](https://ep2021.eu
 ### Quantum Gates
 
 This colab notebook provides a gentle introduction to Quantum Circuits(pure) which comprises of randomized gates (Hadamard/Rx/Pauliz) and also the steps to optimize a cost function with the help of qubits. The notebook also contains the details of plotting the raw expectations from a Quantum Circuit in a Bloch Sphere with the help of [Qiskit](https://qiskit.org/)
+
 ![image](https://user-images.githubusercontent.com/30946547/127304885-566d9107-739b-4351-9718-e034cdfe0178.png)
 
 ### Quantum Gradients 
@@ -51,4 +52,13 @@ This notebook contains the implementation of deep on policy algorithms such as T
 
 ### Quantum GAN
 
+This demo constructs a Quantum Generative Adversarial Network (QGAN) [(Lloyd and Weedbrook (2018), Dallaire-Demers and Killoran (2018))](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.98.012324) using two subcircuits, a generator and a discriminator. The generator attempts to generate synthetic quantum data to match a pattern of “real” data, while the discriminator tries to discern real data from fake data (see image below). The gradient of the discriminator’s output provides a training signal for the generator to improve its fake generated data.
+The Generator circuit appears as follows:
+
+![image](https://user-images.githubusercontent.com/30946547/127306624-66f96702-f334-4c1e-8bea-6117d247e0dc.png)
+
+
+The Discriminator Circuit appears as follows:
+
+![image](https://user-images.githubusercontent.com/30946547/127306664-24b0932f-dc42-4c7e-b4bc-f8bf99519892.png)
 
